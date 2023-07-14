@@ -1,4 +1,4 @@
-# BaubapTest
+# Stefanini Challenge
 # Code challenge for Android position at Stefanini</b>
 
 # Patron de Arquitectura usado  
