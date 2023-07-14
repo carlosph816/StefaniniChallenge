@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StefaniniChallenge</string>
+    <string name="my_stefanini_challenge">My Stefanini Challenge</string>
+    <string name="desarrollador_1">Desarrollador 1</string>
+    <string name="buscar">Search...</string>
+    <string name="install">INSTALL</string>
+    <string name="close">CLOSE</string>
+    <string name="this_is_a_generic_description_for_an_application">This is a generic description for an application</string>
+</resources>
